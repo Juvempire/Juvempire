@@ -50,9 +50,9 @@ Here are some of my recent projects:
    Development of an e-commerce platform using PHP, HTML, CSS, and Javascript.  
    ![GitHub Stars](https://img.shields.io/github/stars/Juvempire/namdarsafar-theme?style=social)
 
-2. **[Personal Portfolio](https://github.com/Juvempire/personal-portfolio)**  
+2. **[Personal Portfolio](https://github.com/Juvempire/Juvempire)**  
    Creation of a personal website using HTML, CSS, and JavaScript.  
-   ![GitHub Forks](https://img.shields.io/github/forks/Juvempire/personal-portfolio?style=social)
+   ![GitHub Forks](https://img.shields.io/github/forks/Juvempire/Juvempire?style=social)
 
 3. **[SEO Tool](https://github.com/Juvempire/seo-tool)**  
    A tool for optimizing websites for search engines.  
